@@ -4,8 +4,9 @@
  * 14/04/2020
  */
 
+package sumofdigits;
 import java.util.Scanner;
-public class Digit_Sum 
+public class SumOfDigits
 {
     int sum = 0;
     public static void main(String[] args) 
